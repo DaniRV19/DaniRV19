@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I’m currently learning about Java, Javascript, HTML,CSS and Git.
+### That´s a personal repository where i'll be updating some of my class works.
 
 <!--
 **DaniRV19/DaniRV19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
