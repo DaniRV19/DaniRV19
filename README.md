@@ -1,7 +1,6 @@
 ### Hi there 👋
-### I’m currently learning about Java, Javascript, HTML,CSS and Git.
-### That´s a personal repository where i'll be updating some of my class works.
-### I always like to learn, I'm ambicious, enjoyer and I like to work with teammates.
+### This is my personal repository where i will be updating some of my class works.
+### I always like to learn, I am ambicious, enjoyer and I like the teamwork.
 
 <!--
 **DaniRV19/DaniRV19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
